@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name artemisa)(type KiCad)(uri C:/PEN/Altair/MSX/artemisa/artemisa-master/hardware/libs/artemisa.pretty)(options "")(descr ""))
+)
